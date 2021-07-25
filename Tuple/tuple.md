@@ -3,14 +3,14 @@
 #### Tuple # list # set # dictionary
 
 #### ordered(have a defined order, and that order will not change.) and unchangeable(cannot change, add or remove items after the tuple has been created.),(immutable), round brackets, allow duplicate values.
-\n
+	
 iAmtuple = ("Katness" , "Everdeen", "HungerGames")
 print(iAmtuple)
-
+	
 iAllowDuplicates = ("Katness" , "Everdeen", "HungerGames", "Katness" )
 print(iAllowDuplicates)
 print(len(iAllowDuplicates))  # len() func determine no of items in tuple
-
+	
 #### To create a tuple with only one item, you have to add a comma after the item, otherwise Python will not recognize it as a tuple.
 tupleWithOneItem = ("kate",)
 print(tupleWithOneItem)
