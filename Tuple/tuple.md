@@ -3,7 +3,8 @@
 #### Tuple # list # set # dictionary
 
 #### ordered(have a defined order, and that order will not change.) and unchangeable(cannot change, add or remove items after the tuple has been created.),(immutable), round brackets, allow duplicate values.
-
+#
+#
 iAmtuple = ("Katness" , "Everdeen", "HungerGames")
 print(iAmtuple)
 
