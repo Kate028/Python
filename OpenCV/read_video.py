@@ -1,7 +1,7 @@
 import cv2
 
 # create videocapture object
-capture = cv2.VideoCapture("video.mp4")
+capture = cv2.VideoCapture("files/video.mp4")
 
 # video is sequence of images 
 # we need while loop to go through each frame one by one
