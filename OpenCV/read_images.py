@@ -1,6 +1,6 @@
 import cv2
 
-read_img = cv2.imread("fmh2.jpg")
+read_img = cv2.imread("feles/fmh2.jpg")
 
 cv2.imshow("output", read_img)
 
