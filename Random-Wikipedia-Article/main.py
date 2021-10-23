@@ -13,7 +13,7 @@ def get_random_article():
 def show_page(url):
     app = QtWidgets.QApplication(sys.argv)
     w = QWebEngineView()
-    w.load(QtCore.QUrl(url)) ## load google on startup
+    w.load(QtCore.QUrl(url))
     w.showMaximized()
     app.exec_()
 
