@@ -1,0 +1,65 @@
+{
+  "question": [
+    "Q1. What Indian city is the capital of two states?",
+    "Q2. Which city is the capital of India?",
+    "Q3. Smallest State of India?",
+    "Q4. Where is Taj Mahal Located?",
+    "Q5. Which one of the following river flows between Vindhyan and Satpura ranges?",
+    "Q6. The metal whose salts are sensitive to light is?",
+    "Q7. The country that has the highest in Barley Production?",
+    "Q8. Volcanic eruption do not occur in the"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+    1,
+    2,
+    3,
+    1
+  ],
+  "options": [
+
+    ["Chandigarh",
+      "Kolkata",
+      "Delhi",
+      "Banglore"
+    ],
+    ["Jaipur",
+      "Delhi",
+      "Chennai",
+      "Mumbai"
+    ],
+    ["Rajasthan",
+      "Punjab",
+      "Goa",
+      "Bihar"
+    ],
+    ["Lucknow",
+      "Agra",
+      "Bhopal",
+      "Delhi"
+    ],
+    ["Narmada",
+      "Mahanadi",
+      "Son",
+      "Netravati"
+    ],
+    ["Zinc",
+      "Silver",
+      "Copper",
+      "Aluminum"
+    ],
+    ["China",
+      "India",
+      "Russia",
+      "France"
+    ],
+    ["Baltic sea",
+      "Black sea",
+      "Caribbean sea",
+      "Caspian sea"
+    ]
+  ]
+}
