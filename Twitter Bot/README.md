@@ -12,17 +12,17 @@
   3. Run twitter_bot.py.
 
 ## Installation
-### Check tweepy version using 
-    pip show tweepy
+  ### Check tweepy version using 
+      pip show tweepy
 
-### Intall tweepy
-    pip install tweepy
+  ### Intall tweepy
+      pip install tweepy
 
-### Getting errors while running code? - upgrading pip and tweepy
-    pip install --upgrade pip
+  ### Getting errors while running code? - upgrading pip and tweepy
+      pip install --upgrade pip
 
-### upgrade tweepy to latest version
-    pip install --upgrade tweepy
+  ### Upgrade tweepy to latest version
+      pip install --upgrade tweepy
 
-## referance
+## Reference
 https://docs.tweepy.org/en/stable/api.html?highlight=retweet%20mention#tweepy.API.retweet
