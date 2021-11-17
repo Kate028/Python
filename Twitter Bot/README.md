@@ -1,6 +1,6 @@
 # Twitter Bot for Like and Retweet hashtag and mention
 
-## Prerequisites
+## Prerequisite
   1. Create a twitter developer account 
   2. Create new project
   3. Within project create new app for retweeting tweets.
